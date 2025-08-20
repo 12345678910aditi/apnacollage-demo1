@@ -1,2 +1,3 @@
 # apnacollage-demo1
 This is my Git Repository
+Author-Aditi Paraskar
